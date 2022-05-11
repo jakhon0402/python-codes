@@ -1,7 +1,7 @@
 import random 
 import time
 
-print("Keling son topish o'yini o'ynaymiz")
+print("Keling son topish o'yini o'ynaymiz !!")
 
 def game1():
     ### EN: In this part of the game, the computer thinks of number from 1 to 10. And you will find.
